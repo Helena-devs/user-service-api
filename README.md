@@ -4,7 +4,7 @@ Production-style backend user service built with FastAPI, PostgreSQL, and JWT au
 
 ## Demo
 
-![auth-demo](.\assets\auth-demo.gif)
+![auth-demo](./assets/auth-demo.gif)
 
 ## Architecture
 
